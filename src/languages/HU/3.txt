@@ -1,0 +1,837 @@
+Latin nyelv
+A Wikipédiából, a szabad enciklopédiából
+Ugrás a navigációhozUgrás a kereséshez
+Disambig.svg	Ez a szócikk a latin nyelvről szól. Hasonló címmel lásd még: Latin (egyértelműsítő lap).
+Latin nyelv
+lingua Latina
+Beszélik	Vatikán (hivatalos nyelv)
+Terület	Appennini-félsziget és Európa
+Beszélők száma	Az irodalomban őrzött, klasszikus formájában, anyanyelvként nem (de sokan tanult nyelvként) beszélik. Mai változatait, az újlatin nyelveket az emberiség 15%-a használja anyanyelveként, mintegy 850 millió fő
+Nyelvcsalád	Indoeurópai nyelvcsalád
+   italikus nyelvek
+    latin-faliszkuszi csoport
+     latin nyelv
+Írásrendszer	Latin ábécé
+Hivatalos állapot
+Hivatalos	 Vatikán
+Gondozza	Opus Fundatum Latinitas
+Nyelvkódok
+ISO 639-1	la
+ISO 639-2	lat
+
+A Wikimédia Commons tartalmaz lingua Latina témájú médiaállományokat.
+Latin nyelv
+Ábécé
+Alaktan
+névszóragozás
+Igeragozás
+Mondattan
+Gerundivum
+Imperfectumtő
+Supinum
+Hangtan
+Helyesírás
+Nyelvhelyesség
+Nyelvtörténet
+Latinság
+Nyelvemlékek
+Duenos-felirat
+Praenestei fibula
+SdB
+faliszkuszi
+ólatin
+vulgáris latin
+újlatin nyelvek
+középkori latin
+újkori latin
+legújabb kori latin
+Kategóriák
+Római irodalom
+Latin irodalom
+m v sz
+A latin nyelv az indoeurópai nyelvcsalád itáliai ágán belül a latin-faliszkuszi nyelvek csoportjába tartozó nyelv. Közeli rokonai az oszk és az umber nyelvek voltak, amelyek valószínűleg hatottak a latin és az újlatin nyelvek fejlődésére is. Szintén hatott rá az etruszk nyelv is, de ennek mértéke ma még ismeretlen, mert az etruszk nyelv nagyrészt megfejtetlen.
+
+Olykor holt nyelvnek nevezik amiatt, hogy jelen formájában nem anyanyelve senkinek, ezért nem is változik már – jóllehet az ógermán, ógörög, óegyházi szláv, ó- és ősmagyar stb. nyelvet sem nevezzük holtnak, hanem élő nyelvek korábbi állapotainak, amilyen a latin is (a „holt nyelv” az utód nélkül kipusztult nyelvekre vonatkozhatna inkább).
+
+Nevét onnan kapta, hogy az ókori Itália Latium nevű tartományának nyelve volt eredetileg. A terület határai a Tirrén-tenger, a volscus területek, a Tiberis és az Appenninek. Róma terjeszkedésével az ókorban és a középkorban az egész mediterrán térségben elterjedt, s a Római Birodalom hivatalos nyelve lett, a görög nyelv mellett. Az egyes provinciákban elkülönült beszélt változataiból (vulgáris, azaz népi latin) alakultak ki a mai újlatin nyelvek. Ezeket szigorúan véve egyazon nyelv dialektusainak tekinthetnénk ma is, ha nem volna érzékeny politikai kérdés a nemzeti nyelv önállósága minden egyes újlatint beszélő országban (Románia, Olaszország, Franciaország, Spanyolország, Portugália, a franciául beszélő volt gyarmatok, a spanyolul beszélő dél-amerikai és közép-amerikai országok és a portugált beszélő Brazília lakossága). Az újlatin nyelveket ma mintegy 850 millió anyanyelvi beszélő, az emberiség 15%-a használja világszerte.
+
+Sok latin alapú szó (elsősorban nemzetközi szó) található más modern nyelvekben is, mint például az angolban – ahol a francia közvetítésével a latinból származó szavak aránya szélsőségesen magas, az Oxford Dictionary szerint a ma használatos angol szókincs fele (például szinte az összes elvont fogalom) – és a magyarban is. Egyes kifejezések annyira beépültek a magyar nyelvbe, hogy latin eredetüket már észre sem vesszük. Közéjük tartozik a „persze” (vö. latin per sē intellegitur ’magától értetődik’), de egy elterjedt vulgáris szavunk is régi latin átvétel, a caco, cacare igéből származó magyar „kakál”.[1]
+
+Svájcnak hivatalos neve többnemzetűsége miatt Confoederatio Helvetica (CH) lett. Mind a mai napig a római katolikus egyház hivatalos nyelve, ezáltal a Vatikán hivatalos államnyelve is. A göröggel együtt az élőlények rendszertani elnevezésére is használják, valamint az anatómiai és orvosi terminológia egy jelentős része is (gyakran a vernakuláris nyelv hatása által torzított) latin.[2]
+
+Magyarország irodalmát a „deák” nyelv jelentősen meghatározta. A középkorban latinul írt egyházi legendák (pl. Szent István kisebb és nagyobb legendája), kódexek, királyi dekrétumok (pl. Aranybulla), gesták (pl. Gesta Hungarorum), majd a humanista költészet (Janus Pannonius) és Mátyás király corvinái, később protestáns drámák (pl. Lackner Kristóf, Ladiver Illés, Andreas Sartorius), a barokk katolicizmus a deákköltészetig bezárólag a magyarországi kultúra fontos részét alkotja. 1844-ben a latint mint államnyelvet Magyarországon felváltotta a magyar.[3]
+
+Elkészült latinul néhány népszerű mű fordítása is (pl. a Micimackó Lénárd Sándor tollából, valamint a Harry Potter sorozat első két kötete), és a nyelv a mai internetes világban is jelen van: létezik ilyen nyelvű változata a Facebooknak,[4] a Google-nak[5] és a Wikipédiának[6] is. Finnországban közel harminc évig (2019-ig) működött latin nyelvű rádióadó (Nuntii Latini).
+
+
+Tartalomjegyzék
+1	Története
+1.1	Archaikus
+1.2	Klasszikus
+1.3	Posztklasszikus
+1.4	Középkor
+1.5	Humanizmus
+1.6	Újlatin
+2	Jelenlegi nyelvállapot
+2.1	Németország
+2.2	Intézmények, fontos weboldalak listája
+3	Vulgáris latin
+4	Írás és kiejtés
+4.1	Magánhangzók
+4.2	Kettőshangzók
+4.3	Mássalhangzók
+4.4	A hangsúly
+5	Nyelvtana
+5.1	A főnevek neme
+5.2	Névszóragozás
+5.3	A melléknevek fokozása
+5.4	Határozószók
+5.5	Számnevek
+5.5.1	Tőszámnevek
+5.5.2	Sorszámnevek
+5.5.3	Szorzószámnevek
+5.5.4	Arányosító számnevek
+5.5.5	Osztó számnevek
+5.5.6	Törtek
+5.6	Igeragozás
+5.6.1	Az igeragozás rendszere
+5.6.2	Példák az igeragozásra
+5.7	Elöljárószók
+5.8	Módosító-, határozó- és kötőszók
+5.9	Indulatszók
+6	Híres írók, költők
+7	A latin nyelv mai leszármazottai
+8	A magyar és a latin
+9	A latin mint élő nyelv
+9.1	A latin mint nemzetközi közvetítő nyelv
+9.2	A latin nyelv és a közoktatás
+10	A kultúrában
+11	Jegyzetek
+12	Források
+13	Kapcsolódó cikkek
+14	További információk
+14.1	Magyarul
+14.2	Angolul
+14.3	Szótárak
+15	Fordítás
+Története
+A latin nyelv az indoeurópai nyelvcsalád italicus ágából származik. Úgy gondolják, hogy írásrendszere, ábécéje az etruszk írásból ered. Történetét hat szakaszra osztják: archaikus, klasszikus, posztklasszikus, középkori, humanista és újkori.
+
+Archaikus
+A latin nyelvet északról hozták Itáliába, beszélői Latiumban telepedtek le, ahol Róma városát alapították. Sok szót vettek át más nyelvekből, a persona (személy) etruszk eredetű (etruszk: perśnu), és görögből például a techna (τέχνη) és a machaera (μάχαιρα) származik.
+
+Maga a nyelv sokat változott, az archaikus -os, -om, -oi, és -osom végződésekből a klasszikus korra -us, -um, -i és -orum lett. A magánhangzók közötti s-ből r lett, ezt rhotacismusnak nevezik.
+
+Klasszikus
+
+Iulius Caesar: Commentarii de Bello Gallico, egy 1783-ban kiadott könyvben
+Az egységes nyelvet római patríciusok hozták létre politikailag, gazdaságilag és kulturálisan nehéz helyzetben a latin nyelvjárásokból. Ezt használták közvetítőnyelvként, irodalmi, tudományos nyelvként, és közigazgatásra.
+
+Itália meghódítása előtt a félszigeten sok nyelvet beszéltek: a már említett görögön és etruszkon kívül a latin rokonait, az umbert, oszkuszt és faliszkuszit. A siculus nyelv besorolása vitatott. Görögök a Kr. e. 8. századtól érkeztek, és városokat alapítottak Szicília és Dél-Itália partjain.
+
+Posztklasszikus
+A római hódítások elterjesztették a latint, ez lett a római állam hivatalos nyelve. A különböző népek átvették a latint, de a hivatalostól némileg különböző változatban, ami egyre inkább eltávolodott a klasszikus nyelvtől, amit iskolában tanítottak, és amihez szótárakat, nyelvtant szerkesztettek, irodalmat írtak. A népi latint nevezik vulgáris latinnak is, ez vált a mai újlatin nyelvek ősévé.
+
+A görög ellenállt a latin terjeszkedésének. Még a római optimaták is görögül tanultak, és szerették használni irodalomra és filozófiára. A birodalom keleti fele görög nyelvűvé vált, a kereskedelemben és utazás céljára használták. 395-ben hivatalosan is a görög vált a Kelet-Római Birodalom hivatalos nyelvévé, bár a latint is használták még évszázadokig. Ezeken a területeken már korábban is nem a latin, hanem a görög volt az uralkodó.
+
+Középkor
+
+A Corporis Iuris Civilis részlete glosszákkal és középkori jogászok megjegyzéseivel
+A középkor elején a latint nagy területeken beszélték anyanyelvként Európában, köztük Rómában is. Azonban a vulgáris nyelvjárások egy idő után annyira eltávolodtak az iskolában tanított nyelvtől, hogy már külön nyelveknek kezdték őket tekinteni.
+
+A savoyai hercegségben 1561-től a latin helyett az olasz és a francia hivatalosak. Magyarországon, Horvátországban, Szlavóniában 1848-ig államnyelv volt (kisebb-nagyobb megszakításokkal). A horvát Ephemerides Zagrabienses lapot 1772-ig latinul írták.
+
+Humanizmus
+
+Philosophiae naturalis principia mathematica, Isaac Newton latinul írt műve 1687-ből
+A latin a középkorban egyházi nyelv volt. A reneszánsz idején világiak is tanulhattak, megtanulták a latint is, ami nemzetközi tudományos, jogi és irodalmi nyelvvé vált. Sok tudományos szakszó, szakkifejezés latin (vagy görög) eredetű. A kettős nevezéktan is eredetileg latin nyelvű volt.
+
+A nemzeti eszmék terjedésével egyre több helyen az anyanyelvet hozták előtérbe, a latin pedig egyre inkább háttérbe szorult. Nemzetközi nyelvként helyét a francia vette át a francia forradalom után.
+
+Újlatin
+
+Dohányzást tiltó angol/latin kétnyelvű felirat (Wallsend, Nagy-Britannia). A vasútállomáson minden felirat kétnyelvű az ókori római katonai táborra emlékezve
+Az újlatin korszak kezdetét a francia forradalomra vagy a 19. század elejére teszik. Szerepe a ma ismert: egyházi nyelv és irodalmi nyelv, szűkebb körben nemzetközi nyelv.
+
+Az egyházi latint a katolikus egyház használja, a római rítus számára. A pápa írásai, liturgikus könyvek, különösen az enciklikák, szentszéki kongregációk, énekek nyelve. Hivatalos nyelv a Vatikánban, de az ott élők többnyire más nyelveken, leginkább olaszul beszélgetnek egymással. Egyes közösségek, mint a Szent Péter Papi Testvérület és a Szent X. Piusz Papi Testvérület kitartanak a katolikus egyház 1962 előtti hagyományainál, a régebbi misénél, ami csak latin lehet.
+
+Nemcsak egyházi körökben használatos. Vannak, akik a latin nyelvű irodalmat tanulmányozzák, a nyelvet újjáéleszteni próbálják. Az élő latinos közösség nemzetközi közvetítő nyelvként használja, a mindennapi életről írnak, amihez újabb szavakat találnak ki. A nyelvet intézmények is támogatják, könyveket is írnak latinul. Például a számítógép computatrum, az internet tela totius terrae vagy interres, a fájl fasciculus.
+
+Jelenlegi nyelvállapot
+Németország
+Németországban a Szövetségi Statisztikai Hivatal adatai szerint 2004-ben és 2005-ben a tanulók 8%-a tanult latint, 2009-ben 9%.[7]
+
+A Frankfurter Allgemeine Zeitung megkérdezte azt a harminc vállalatot, amiknek részvényáraiból számítják a DAX tőzsdeindexet. A harminc közül 22 válaszolt. Közülük egy írta, hogy a latin nyelvtudás náluk nem hasznosítható. A többi válasza szerint a latin nyelvtudás nem számít náluk a kiválasztásban.
+
+Intézmények, fontos weboldalak listája
+Pontificia Academia Latinitatis
+Centrum Latinitatis Europae
+Hely: Aquileia, Olaszország
+"Centrum" Latinitatis
+Circulus Latinus Matritensis
+Hely: Spanyolország
+Circuli Matritensis
+EPHEMERIS
+Hely: Varsó és Emporia (Spanyolország)
+Ephemeris
+Forum Romanum
+Hely: Internet
+Forum Sablon:Ling (continet fontes Latinos)
+Grex Latine Loquentium
+Hely: Torunium, Lengyelország
+Grex Latine Loquentium
+Fontes Latini a Grege Praebiti
+LATINITAS
+Hely: Vatikán
+Kiadványok: Latinitas és Lexicon Recentis Latinitatis
+Opus Fundatum Latinitas
+Pagina Officialis Lingua Latina Sanctae sedis
+Vivarium Novum
+Hely: Róma
+Pagina interretialis
+LATINUM
+Hely: London
+LATINUM - Anglice et Latine
+Montis Casini Coenobium
+Hely: Monasterium Montis Casini
+Coenobium
+MundusLatinus
+Hely: Internet
+http://www.munduslatinus.de
+Nuntii Latini Italici
+Hely: Catina, Szicília
+Kiadvány: Nuntii Latini Italici
+Circulus Latinus Catinensis
+Radio Bremen (2017 decemberéig)[8]
+Hely: Bréma, Németország
+Kiadvány: Nuntii Latini (latinul és németül)
+Radio Bremen
+Radiophonia Finnica Generalis
+Hely: Finnország
+Kiadvány: Nuntii Latini
+Radiophonia Finnica
+SALVI
+Septentrionale Americanum Latinitatis Vivae Institutum
+Societas Didactica Californiana Commoditati Publicae anno MCMXCVII Condita
+SALVI in interreti
+Septimanae Latinae Amoeneburgenses
+Septimanae Latinae évenkénti találkozó
+Hely: Frankfurt am Main
+Septimana Latina
+Societas Latina
+Hely: Saravipontum, Németország
+Kiadvány: Vox Latina
+Vox Latina
+Societas linguae latinae hobartensis
+Hely: Hobart, Ausztrália
+Societas Hobartensis
+SCHOLA
+Hely: Internet
+Schola
+Statio Radiophonica F.R.E.I.
+Hely: Erfordia
+Kiadvány: Erfordia Latina
+Studium Angelopolitanum
+Hely: Puebla, Mexikó
+Studium Angelopolitanum
+The Latin Library (latin nyelvű könyvtár)
+Thesaurus Eruditionis Universitatis Manhemensis
+Hely: Németország
+Thesaurus Eruditionis universitatis Manhemensis
+UKY
+Kentucky Egyetem (Universitas Kentukiana)
+Hely: Lexintonia
+Institutum UKY
+Vita Latina
+Hely:Franciaország
+Pagina prima Vitae Latinae
+Vita Latinitatis
+Hely: Internet
+Vita Latinitatis
+Vulgáris latin
+A vulgáris, más néven népi latin az ókori rómaiak köznyelve volt.[9] Az irodalmi műveket rendszerint az irodalmi nyelvváltozatban írták, így a köznyelvből kevés maradt ránk,[10] falfirkákon, komédiákban[10] és helyesírási hibákban érhető tetten. Számos dologban egyszerűsítette a ragozást és a kiejtést, új jelentést adott egyes szavaknak és új elemeket vezetett be. Egy idő után a köznép nem is értette az irodalmi nyelvet, és a Római Birodalom bukása után már önálló nyelvekként léteztek.
+
+Részlet Plautus komédiájából:
+
+CLEOSTRATA : Myrrhina, salve.
+MYRRHINA : Salve mecastor: sed quid tu's tristis, amabo?
+CLEOSTRATA : Ita solent omnes quae sunt male nuptae: Domi et foris aegre quod sit satis semper est. Nam ego ibam ad te.
+MYRRHINA : Et pol ego istuc ad te. Sed quid est, quod tuo nunc animo aegre'st? Nam quod tibi'st aegre, idem mihi'st dividiae.
+"tu's" = tu es (vagy (ige)), "aegre'st" = aegre est (beteg), "tibi'st" = tibi est (neked van, tiéd) és "mihi'st" = mihi est (nekem van, enyém).[10] A "pol" szó kisebb káromkodásnak számít, azt jelenti, hogy Polluxra, irodalmi nyelven "apud Pollucem".[10]
+
+Írás és kiejtés
+
+Latin Biblia 1407-ből
+A latin nyelv a ma is ismert latin ábécét használta és használja, eredetileg csakis nagybetűkkel (maiuscula): ABCDEFGHILMNOPQRSTVX, e 20 betűhöz járult a görögből átvett szavak miatt az Y és a Z. Érdemes megfigyelni, hogy az U és a V egyazon betű két változata volt, mivel ugyanazt a hangot jelölték (az angol W hangnak megfelelő hangértékkel, amely később egyes újlatin nyelvekben V-vé, illetve B-vé alakult): a nagybetűk közt csak a V létezett, a (később kialakult) kisbetűk (minuscula) közt viszont csak u betűt találunk. Így például a venio („jövök”) szó írásmódja nagybetűkkel VENIO, míg kisbetűkkel uenio alakban volt szokásos. A [j] hangra szintén nem volt önálló betű, ezt mindig I-vel írták.
+
+A latin ábécében eredetileg valószínűleg nem volt D-betű és d-hang sem (vö. Odüsszeusz→Ulysses lambdacizmus), illetve f-, g- és c-hangok sem. A d-, g- és f-hangok az etruszk hatására kerülhettek bele, a c-hang pedig egészen késői fejlemény, amikor az e, i, æ és œ előtt álló k-hangzó c-vé alakult. A klasszikus ábécé 23 betűt tartalmaz, a középkorban tovább bővítették a J, U, W betűkkel.
+
+A nyelvtörténeti és fonológiai kutatások (többek közt az egymással rokon alakváltozatok, az idők során följegyzett változások és az utódnyelvek megfelelései alapján) feltárták a latin valószínűsíthető hangrendszerét, kiejtését is; e kiejtés alkalmazását nevezik restituált (helyreállított) kiejtésnek. A V és az u betű például a rövid [u] félhangzóra utalhatott (mint a magyar autó vagy kalauz szóban).
+
+A latinban eredetileg – a középkorig – nem használtak ékezeteket. A szótárakban, lexikonokban a helyes olvasás és hangsúlyozás megkönnyítése érdekében a magánhangzók hosszúságát a fölé helyezett vízszintes vonallal vagy vesszővel, rövidségét kis félkörrel (ā ē ī ō ū vagy á, é, í, ó, ú, ý; ă ě ĭ ŏ ŭ) jelölik, amikor a kvantitásnak megkülönböztető szerepe van. A pontos kiejtés változó, alkalmazkodik a különböző népek hangrendszeréhez, és az egyháziak kiejtése sem mindig érzékelteti a magánhangzók hosszúságát.
+
+A kettőshangzók száma hat: ae = [aɪ̯], ei = [eɪ̯], oe=[ɔɪ̯], au = [aʊ̯], eu = [ɛʊ̯], ui = [ʊɪ̯]. Azokban a betűkapcsolatokban, amelyek kettőshangzónak néznek ki, de nem azok, a szótárak a második betűre két pontot tesznek: aes (gen: aeris) érc, fém; aër (gen: aëris) levegő; heros (pl. heroës) hős.
+
+Magánhangzók
+Az a rövid vagy hosszú magyar á-nak hangzott.
+Az e magyar e-nek (nyílt e-nek) hangzott, ha rövid volt, és é-nek (zárt e-nek), ha hosszú.
+Az i a magyar é-hez közelítő rövid i volt, vagy hosszú í, de magánhangzó előtt [j]-nek ejtették, illetve két magánhangzó között hosszú j-nek.
+Az o lehetett magyar rövid (nyílt) o és hosszú ó.
+Az u a magyar o-hoz közelítő nyílt u-nak hangzott, ha rövid volt, vagy pedig ú-nak, ha hosszú.
+Az y talán magyar ü, ű lehetett a klasszikus korszakban, majd később i-vé egyszerűsödött, és csak görög eredetű szavakban használták. Erről neve is árulkodik: i Graeca, azaz „görög i”.
+A hangsúly helye nem állandó. Több szótagú szavakban a hangsúly a hátulról számított második magánhangzóra esik, kivéve, ha a szó legalább három szótagú, és az utolsó előtti szótag rövid. A kettőshangzók hosszúnak számítanak. Egyes írók a hangok hosszúsága helyett a hangsúly helyét jelölték. Megint mások, például Arcadius Avellanus csak akkor jelölték, ha nem az utolsó előtti szótagra esett.
+
+Kettőshangzók
+Az æ először [ai]-nak hangzott, majd egyszerű nyílt e-vé alakult. Az erasmida hagyomány miatt gyakran é-nek ejtik.
+Az au kiejtése megegyezett a magyar autó szóban lévő au kiejtésével.
+Az eu kettőshangzót úgy ejtették, mint az Európa szóban.
+Az œ kezdetben [oi]-nak hangzott, majd egyszerű zárt e-vé (é-vé) alakult. Az erasmida hagyomány miatt gyakran ö-nek ejtik.
+Mássalhangzók
+A c-t körülbelül az 1. századtól a magas magánhangzók (e, i, y) előtt kb. [ty]-nek (palatalizált k), máskor minden helyzetben k-nak ejtették. Cicero nevének ejtése korhűen kikero, Caesar pedig kaiszar.
+Az f ejtése vagy magyar f, vagy a felső fogsor közreműködése nélküli, ún. bilabiális f lehetett.
+A g ejtése magas magánhangzók (e, i, y) előtt kb. [gy] (palatalizált g), máskor g volt. A gn kapcsolatban ejtése veláris g lehetett [ŋ], azaz, mint a magyar hang szó n-je.
+Az l ejtése szótag végén veláris [ʟ] („kemény” l) lehetett, a szókezdő cl-, pl- kapcsolatokban pedig talán palatális [kly-, ply-].
+A görög eredetű ph, rh, th ejtése [f, r, t] volt.
+A qu, ngu és su kiejtése magánhangzók előtt [kw], [ngw] és [sw] volt, ahol a w igen rövid (alig hallható) u-nak felel meg, e és i előtt sokszor el is tűnt: quid [k(w)id] „ki, mi”.
+Az s valószínűleg palatalizált sz volt, azaz a magyar sz és s között ejthették. A késői latinban kiejtése magánhangzók között zöngésült [z], majd néhány nyelvjárásban, már újlatin fejlemények során visszazöngétlenedett (spanyol, galíciai, olasz nyelvjárások stb.).
+A ti szótag kiejtése eredetileg minden helyzetben [ti] volt, magánhangzó előtt – a sti- kivételével – palatalizált t-vel [ty/cj].
+A hangsúly
+A hangsúly a latinban kötött volt: az utolsó előtti szótagra esett, ha az hosszú volt, és az utolsó előttit megelőző szótagra (hosszúságától függetlenül), ha az utolsó előtti rövid volt. (Hosszú szótagnak számít az a szótag, amely hosszú magánhangzót tartalmaz, vagy rövid magánhangzót és egynél több mássalhangzót.)
+
+Kivételes esetben eshetett a hangsúly az utolsó szótagra is, olyan szavakban, amelyek eredeti utolsó szótagja az alaktani fejlődés során lekopott, például: adhūc [adˈhuːk] (< *adhūce, vö. spanyol aún) ’még’.
+
+A beszélt latinban a hangsúly egy idő után befolyásolta a nem hangsúlyos magánhangzók hosszúságát, vagyis a hangsúlytalan hosszú magánhangzók lerövidültek, míg a hangsúlyos rövidek meghosszabbodtak. Ennek következtében a magánhangzók hosszúságának megkülönböztető szerepe a legtöbb újlatin nyelvekben eltűnt, helyét a hangsúly szerepe vette, amely a fonológiai változások következtében viszonylag szabaddá vált.[11]
+
+Nyelvtana
+A latin az indoeurópai nyelvekhez hasonlóan hajlító-ragozó típusú, vagyis flektáló nyelv. (A flexió azt jelenti, hogy a szó egyetlen alakváltozása vagy morfémája, gyakran a szótő megváltozása, egyszerre több jelentést hordozhat, szemben a toldalékoló, vagyis agglutináló nyelvekkel, amelyekben minden egyes eltérő jelentést a szótőhöz járuló, egymásra ragasztott toldalékokkal fejeznek ki. A két nyelvtípus között tehát az alapvető különbség, hogy a flektáló nyelvekben az alakváltozatok és toldalékok száma erősen korlátozott.) Ennek a jellegnek megfelelően kiterjedt „névszó- és igeragozási rendszert” találunk; hagyományosan a névszókat ötféle, az igéket négyféle ragozási csoportba sorolják attól függően, hogy a szótövük milyen hangra végződik (l. alább).
+
+Néhány főnév és ige rendhagyó, nem illeszkedik egyik ragozási rendszerbe sem, vagy azokon belül alcsoportokba sorolható (de az ún. „rendhagyók” valójában mind régebbi indoeurópai ragozások, a kettős szám és az ún. primér ragozások maradványai, tehát a kategória igazából utólagos grammatizálás eredménye, nincs „rend”, amit a rendhagyók elhagynának).
+
+A latin szórend, eltérően modern indoeurópai rokonaitól, a magyarhoz hasonlóan szabad. Leggyakoribb a latinra nagyon jellemző ún. „drámai szórend”, melyben az alany legelöl hangzik el, az állítmány pedig leghátul, lehetőleg az utolsó helyen, és minden egyéb „részlet” a kettő között. Ez a szerkesztés egy állandó feszültségkeltő-feloldó mintát alkot, megnevezi az alanyt, majd közli az összes részletet, és csak legvégül a „poént”, ezért hívják drámai szórendnek. A latin próza szélsőségesen hosszú körmondataiban nem ritka, hogy a főmondat állítmánya az összes mellékmondat lezárultával, az egész összetett mondatbokor legvégén hangzik csak el. Versekben azonban még ettől is igen gyakran eltérnek. A mondatbeli szerkezetek kevésbé kötött sorrendjét elsősorban az teszi lehetővé, hogy a szavak végződése jelöli nyelvtani szerepüket (vö. magyarul Péter látja Máriát, Máriát látja Péter stb.), de egyébként is megfigyelhető az igen tudatos, önreflexív római irodalmi életben a stílusok váltakozása, divatok feltűnése és letűnése, egy-egy meghatározó szerző komoly iskolákat teremtett szóhasználatával, mondatfűzési sajátosságaival.
+
+A főnevek neme
+A főneveknek van nemük. A latin nyelv három nemet ismer: hím-, nő- és semlegesnemet. Általában a főnevek jelentése, végződése, ragozási típusa, képzése és jelentése segíthet felismerni a főnév nemét, de ez nem mindig lehetséges.
+
+Hímneműek a férfit, foglalkozásokat, népeket, folyókat, szeleket és hónapokat jelentő főnevek.
+Nőneműek a nőket, fákat, szigeteket, városokat, országokat, tudományokat és betegségeket jelölő főnevek.
+Megjegyzés: A betegségekre vonatkozó szabály alól az orvosi latinban több kivétel is van. Ezek jórészt idegen eredetűek vagy a hagyományos képzéstől eltérően vannak képezve.
+Semlegesneműek a főnévként használt infinitivusok.
+Vannak olyan főnevek is, amelyek férfit és nőt is jelentenek, vagy olyanok, amelyeknek a végződésük a melléknevekhez hasonlóan utal az aktuális nemre.
+
+A későlatin korban kialakultak névelők, de ezeket nem használják, mivel a megőrzött nyelv más állapotban maradt fenn, amikor még nem használtak névelőket a nyelvben.
+
+Névszóragozás
+Searchtool right.svg	Bővebben: Latin névszóragozás
+A deklinációk (névszóragozási típusok) töve az arra a deklinációra jellemző hangot jelöli, amelyik a legtöbb ragban előfordul; többnyire az ablativuson látható (aurā ā tövű, aurō ō tövű, aure pedig mássalhangzós tövű). Az alany- és a tárgyeset olykor egyazon deklináción belül is eltér, ezért a szótári alakban az alanyeset mellett a birtokos esetet (genitivust) szokták megadni: az öt deklinációban rendre -ae, -ī, -is, -ūs, -ēī.
+
+Az egyes névszókról a ragok alapján lehet eldönteni, melyik deklinációba tartoznak, egyes ragok azonban különböző deklinációban is előfordulnak különböző szerepben, illetve egyes szótövekhez többféle deklináció ragjai is kapcsolódhatnak. Az aur- alak például lehet első, második vagy harmadik deklinációs szó töve is (aura, aurae levegő, szellő; aurum, aurī arany; auris, auris fül): elkülönítésük a rag és a szövegkörnyezet alapján lehetséges.
+
+Minden deklinációban alapjában véve ötféle főnévi alak (úgynevezett eset) van. Az öt eset:
+
+nominativus (alanyeset, az alany és a névszói állítmány kifejezésére),
+accusativus (tárgyeset, direkt tárgy, ill. egyes elöljárók után),
+genitivus (birtokos eset, a birtoklás jelölésére),
+dativus (részeseset, vagy úgynevezett indirekt tárgyeset),
+ablativus (határozói eset, számos elöljáró után).
+Két további eset létezik, melyek szűkebb körben használatosak, és számos névszónál nem is lehetségesek:
+
+vocativus (megszólító eset: „Te is, fiam, Brutus?” latinul „Et tu mi fili, Brute?” – meusból i lesz, iusból i, usból e) – alakjai egy-két kivételtől eltekintve megegyeznek az alanyesettel;
+locativus, amely a helyre utal (ezt máskülönben az ablativus fejezi ki az in elöljáróval), de ez az indoeurópai maradvány csak egyes városok, szigetek és pár más szó esetében lelhető fel.
+Az indoeurópai instrumentalis eset (eszközeset) funkciója (mely például a mai orosz nyelvben még megvan) már korán beleolvadt az ablativusba, mely ezáltal alapvetően háromféle jelleget tud kifejezni: az elválasztást (valahonnan, valamiből), a társat vagy eszközt (valamivel, valakivel) és – a locativusszal osztozva – a helyet (valamikor, valahol).
+
+A névszók az általuk jelölt dolog alábbi tulajdonságait fejezhetik ki:
+
+szám (egyes vagy többes),
+eset (a fenti hét eset valamelyike),
+nem (hím-, nő- vagy semlegesnem).
+A mondatokat lényegében a nemben, számban és esetben való egyeztetés tartja össze. A melléknév, mint jelző is egyezik az általa jelzett főnévvel. Általában a melléknévi jelző követi a jelzett szót, csak akkor kerül előre, ha kiemelik.
+
+Érdekesség, hogy az igen archaikus latin a névszók egyes (singularis), kettes (dualis) és többes (pluralis) számát is megkülönböztette; a kettes számot a klasszikus latin csak néhány névmásban őrizte meg (például mindkettő, melyik a kettő közül?).
+
+A melléknevek fokozása
+A melléknevek alapfoka általában megegyezik a szótári alakkal.
+
+A középfokú melléknevek a harmadik declinatioba tartoznak, alanyeseti végződésük hím- és nőnemben -ior, semlegesnemben -ius. A mássalhangzós tövű altípus szerint ragozódnak. A középfok eredhet összehasonlításból, ami megállapítja, hogy az egyik tulajdonság kifejezettebb, mint a másikban, de jelentheti azt is, hogy a tulajdonság az átlagosnál erősebb.
+
+A felsőfokú melléknevek az első és második declinatio szerint ragozódnak. Képzésük: -issimus 3, ami az alapfokú egyes szám genitivus végződése helyére kerül. A felsőfokú melléknév jelentheti egy tulajdonság kiemelését, de a középfokhoz hasonlóan annak fokozottabb jelenlétét is.
+
+Határozószók
+A határozószók lehetnek szótárilag is határozószók, de melléknevekből is képezhetők.
+
+A legtöbb első és második declinatiós alapfokú melléknév határozószava a semlegesnemű egyes számú ablativus -o végződésének -e-re cserélésével kapható. Ez alól azonban több kivétel is van.
+
+A harmadik declinatiós alapfokú melléknevek határozószavának végződése -ter.
+
+A középfokú melléknevek határozószava megegyezik a semlegesnemű egyes szám accusativusával.
+
+Számnevek
+Tőszámnevek
+Néhány szám latinul:
+
+1	I	unus, –a, –um	11	XI	undecim	21	XXI	unus et viginti	101	CI	centum et unus
+2	II	duo, –ae, –o	12	XII	duodecim	22	XXII	duo et viginti	200	CC	ducenti, –ae, –a
+3	III	tres, tres, tria	13	XIII	tredecim	30	XXX	triginta	300	CCC	trecenti, -ae, -a
+4	IV	quattuor	14	XIV	quattuordecim	40	XL	quadraginta	400	CD	quadringenti, -ae, -a
+5	V	quinque	15	XV	quindecim	50	L	quinquaginta	500	D	quingenti, -ae, -a
+6	VI	sex	16	XVI	sedecim	60	LX	sexaginta	600	DC	sescenti, -ae, -a
+7	VII	septem	17	XVII	septendecim	70	LXX	septuaginta	700	DCC	septingenti, -ae, -a
+8	VIII	octo	18	XVIII	duodeviginti	80	LXXX	octaginta	800	DCCC	octingenti, -ae, -a
+9	IX	novem	19	XIX	undeviginti	90	XC	nonaginta	900	CM	nongenti, -ae, -a
+10	X	decem	20	XX	viginti	100	C	centum	1000	M	mille
+Húsz fölött használatos a magyarnak megfelelő sorrend is, kötőszó nélkül. Tíz fölött a nyolcra, illetve kilencre végződő számokat kivonással képezik, például 28 duodētrīgintā (30-2), 29 ūndētrīgintā (30-1). Ezeknek a számoknak nincs más alakjuk. 100 fölött a kisebb tagok követik a nagyobbakat, kapcsoló szó nélkül, például 124 = centum vīgintī quattuor.
+
+Az unus, una, unum ’egy’, duo (hímnem), duae (nőnem), duo (semlegesnem), ’kettő’, tres (hímnem), tres (nőnem), tria (semlegesnem) és ’három’ számneveket ragozzák, beleértve amikor más számoknak az utolsó számjegyei. Emellett a százasok, illetve a több ezret jelentő milia is ragozható. A százat jelentő centum, illetve az ezret jelentő mille ragozhatatlan.
+
+Az egynek többes száma is van, a többinek csak többes száma van. Az egyes a névmások ragozását követi. A kettes szám az első-második declinatio mellékneveinek ragozását követi. A hármas az i tövű melléknevek módjára ragozódik. A százasok ragozása az első-második declinatio mellékneveinek felel meg. A több ezret jelentő millia többes számú, semleges nemű főnévként működik.
+
+Szám	Nominativus
+(Vocativus)	Genitivus	Dativus	Accusativus	Ablativus
+1	ūnus, ūna, ūnum
+(ūne, ūna, ūnum)	ūnīus, ~, ~	ūnī, ~, ~	ūnum, ūnam, ūnum	ūnō, ūnā, ūnō
+ūnī, ūnae, ūna	ūnōrum, ūnārum, ūnōrum	ūnīs, ~, ~	ūnōs, ūnās, ūna	ūnīs, ~, ~
+2	duo, duae, duo	duōrum (duum), duārum, duōrum (duum)	duōbus, duābus, duōbus	duōs/duo, duās, duo	duōbus, duābus, duōbus
+3	trēs (trīs), ~, tria	trium, ~, ~	tribus, ~, ~	trēs (trīs), ~, tria	tribus, ~, ~
+200	ducentī, ducentae, ducenta	ducentīs, ~, ~	ducentōs, ducentās, ducenta	ducentīs, ~, ~
+2000	duo mīlia	duōrum mīlium	duōbus mīlibus	duo mīlia	duōbus mīlibus
+A rómaiak nem ismerték a nullát; ezt a középkorban és azóta a nullus, nulla, nullum névmás pótolja. A középkorban használták a zerus, cifra szavakat is. A rómaiak nem ismerték a negatív számokat sem. A nagy számokat szorzással fejezték ki, így a milliót deciēs centēna mīlia, a milliárdot deciēs milliēs centēna mīlia jelentette. A modern latinban megvannak a nemzetközi millio, milliard szavak, a millio az olaszból, a milliard a franciából átvéve.
+
+Jelzőként a számnevek a melléknevektől eltérően rendszerint főnevük előtt állnak. A főnév az unus, una, unum után egyes, a többi után többes számban áll. Ha a főnévnek csak többes száma van, akkor az 1 kerül többes számba. A számokban a ragozható tagok nemben, számban, esetben egyeznek a főnévvel.
+
+Sorszámnevek
+A sorszámnevek mind ragozhatóak, az első-második declinatiós melléknevek ragozása szerint:
+
+1. prīmus, prīma, prīmum
+2. secundus, secunda, secundum
+alter, altera, alterum
+3. tertius, tertia, tertium
+4. quartus, quarta, quartum
+5. quīntus, quīnta, quīntum
+6. sextus, sexta, sextum
+7. septimus, septima, septimum
+8. octāvus, octāva, octāvum
+9. nōnus, nōna, nōnum
+10. decimus, decima, decimum
+11. ūndecimus
+12. duodecimus
+13. tertius decimus
+14. quartus decimus
+15. quīntus decimus
+16. sextus decimus
+17. septimus decimus
+18. duodēvīcēsimus
+19. ūndēvīcēsimus
+20. vīcēsimus / vīgēsimus
+20-tól 90-ig a kerek tízesekből a sorszámokat -gēsimus képzi:
+
+20. vīcēsimus / vīgēsimus
+30. tricēsimus / trigēsimus
+40. quadragēsimus
+50. quīnquāgēsimus
+60. sexāgēsimus
+70. septuāgēsimus
+80. octōgēsimus
+90. nōnāgēsimus
+A százasokból, illetve az egy ezerből -ēsimus, régiesen -ēnsimus képez sorszámot:
+
+100. centēsimus
+200. ducentēsimus
+300. tricentēsimus
+400. quadringentēsimus
+500. quīngentēsimus
+600. sescentēsimus
+700. septingentēsimus
+800. octingentēsimus
+900. nōngentēsimus
+1000. millēsimus
+A több ezret jelentő számokban az ezres szorzója szorzószámnévvel van jelölve:
+
+2000. bis millēsimus (2*1000.)
+3000. ter millēsimus (3*1000.)
+4000. quater millēsimus (4*1000.)
+10000. deciēs millēsimus (10*1000.)
+Összetett számokban az összes tagból sorszámnevet kell képezni. Határozószóként semlegesnemű alakjuk accusativusa vagy ablativusa szolgál.
+
+Érvelésekben az egyes gondolatok elkülönítésére add + accusativus használatos: ad prīmum (először is), ad secundum (másodjára).
+
+Szorzószámnevek
+A szorzószámnevek csak határozószóként használatosak, emiatt számnévi határozóknak is nevezik őket. Nem ragozhatók, nem kell őket egyeztetni. Képzőjük -iēs, régiesen -iēns. A multus határozatlan számnév középfokú alakja is megkaphatja ezt a képzőt. Húsz fölött csak az et kötőszavas számokból képezhető, különben szorzásként érthető:
+
+{\displaystyle V\cdot IV=XX}{\displaystyle V\cdot IV=XX} , szöveggel quīnquiē(n)s quaterna sunt vīgintī.
+egyszer semel
+kétszer bis
+háromszor ter
+négyszer quater
+ötször quīnquiēs
+hatszor sexiēs
+hétszer septiēs
+nyolcszor octiēs
+kilencszer noviēs
+tízszer deciēs tizenegyszer ūndeciēs
+tizenkétszer duodeciēs
+tizenháromszor ter deciēs
+tizennégyszer quater deciēs
+tizenötször quīndeciēs
+tizenhatszor sedeciēs
+tizenhétszer septiēsdeciēs
+tizennyolcszor duodēvīciēs
+tizenkilencszer ūndēvīciēs
+hússzor vīciēs
+21x semel et vīciēs
+22x bis et vīciēs
+23x ter et vīciēs
+30x trīciēs
+40x quadrāgiēs
+50x quīquāgiēs
+60x sexāgiēs
+70x septuāgiēs
+80x octōgiēs
+90x nōnāgiēs
+százszor centiēs
+200x ducentiēs
+300x tricentiēs
+400x quadringentiēs
+500x quīngentiēs
+700x septingentiēs
+800x octingentiēs
+900x nōngentiēs
+ezerszer milliēs
+kétezerszer bis milliēs
+3000x ter milliēs
+4000x quater milliēs
+tízezerszer deciēs milliēs
+Néhány szorzószámnév melléknévi alakja:
+
+félszeres – semiplex
+egyszeres – simplex
+másfélszeres – sēsquiplex / sēscuplex
+kétszeres – biplex / duplex
+háromszoros – triplex
+négyszeres – quadruplex
+ötszörös – quīncuplex / quīntuplex
+hatszoros – sextuplex
+hétszeres – septemplex
+nyolcszoros – octuplex
+kilencszeres – novemplex / noncuplex
+tízszeres – decemplex / decuplex
+százszoros – centuplex
+ezerszeres – millecuplex
+többszörös – multiplex
+hányszoros? – quotuplex?
+annyiszoros – totuplex
+Jelzőként használatosak, mint a szorzószámnevek melléknévi alakja, vagy a tőszámnév melléknévi alakja. Ragozásuk a harmadik declinatiós mássalhangzós tövű melléknevekét követi, de többes szám genitivusuk -ium végződést kap.
+
+Arányosító számnevek
+1. simplus, simpla, simplum
+2. duplus, dupla, duplum
+3. triplus, tripla, triplum
+4. quadruplus, quadrupla, quadruplum
+5. quīntuplus, quīntupla, quīntuplum
+6. sextuplus, sextupla, sextuplum
+Az arányosító számnevek azt fejezik ki, hogy egy mennyiség hányszorosa egy másik mennyiségnek. Képzőjük -plus, -pla, -plum, és az első-második declinatiós melléknevek mintájára ragozódnak.
+
+Osztó számnevek
+Néhány osztószámnév:
+
+egy-egy singulī, singulæ, singula
+két-két bīnī, bīnæ, bīna
+három-három ternī, ternæ, terna; trīnī, trīnæ, trīna
+négy-négy quaternī 3
+öt-öt quīnī 3
+hat-hat sēnī 3
+hét-hét septēnī 3
+nyolc-nyolc octōnī 3
+kilenc-kilenc novēnī 3
+tíz-tíz dēnī 3
+11-11 ūndēnī 3
+12-12 duodēnī 3
+13-13 ternī 3 dēnī 3
+14-14 quaternī 3 dēnī 3
+15-15 quīnī 3 dēnī 3
+16-16 sēnī 3 dēnī 3
+17-17 septēnī 3 dēnī 3
+18-18 duodēvīcēnī 3
+19-19 ūndēvīcēnī 3
+20-20 vīcēnī 3
+21-21 vīcēnī 3 singulī 3
+22-22 vīcēnī 3 bīnī 3
+28-28 duodētricēnī 3
+29-29 ūndētricēnī 3
+10-10 dēnī 3
+20-20 vīcēnī 3
+30-30 tricēnī 3
+40-40 quadrāgēnī 3
+50-50 quīnquāgēnī 3
+60-60 sexāgēnī 3
+70-70 septuāgēnī 3
+80-80 octōgēnī 3
+90-90 nōnāgēnī 3
+100-100 centēnī 3
+200-200 ducēnī 3
+300-300 trecēnī 3
+400-400 quadringēnī 3
+500-500 quīngēnī 3
+600-600 sescēnī 3
+700-700 septingēnī 3
+800-800 octingēnī 3
+900-900 nōngēnī 3
+1000-1000 singula mīlia
+2000-2000 bīna mīlia
+100 000-100 000 centēna mīlia
+Az osztó számneveket használják törtek képzéséhez, szorzó kifejezésére. Ha egy főnevet többes számban az eredeti értelmétől különböző jelentésben használunk, akkor a másik jelentésben osztó számnévvel fejezzük ki a számát.
+
+A többes számú első-második declinatiós melléknevek módjára ragozódnak.
+
+Törtek
+A fél latinul sēmi, de ez csak összetételekben használatos. Egész számokkal együtt semis. Önállóan a fél melléknévként dimidius. Valaminek a fele dimidium. A sēsqui a másfél megfelelője.
+
+Ha a számláló egy, akkor a nevezőnek a sorszámnevét kell egyeztetni a pars főnévvel:
+
+1/3 = tertia pars
+1/4 = quarta pars
+1/5 = quinta pars
+1/6 = sexta pars
+Ha az egy egészhez csak egy rész hiányzik, akkor a számláló tőszámnevét kell egyeztetni a pars főnévvel:
+
+2/3 = duæ partēs
+3/4 = trēs partēs
+5/6 = quīnque partēs
+6/7 = sex partēs
+7/8 = septem partēs
+Egyébként, ha a tört egynél kisebb, akkor a számláló tőszámnevét és a nevezőnek a sorszámnevét kell egyeztetni a partes (a pars többes száma) főnévvel:
+
+2/4 = duæ quartæ partēs
+3/7 = trēs septimæ partēs
+4/8 = quattuor octāvæ partēs
+7/10 = septem decimæ partēs
+Ha a tört egynél nagyobb, és a számláló eggyel nagyobb, mint a nevező, akkor a nevező sorszámneve elé a sēsqui szót tesszük képzőként, és hozzátesszük a pars szót is:
+
+3/2 = sēsquipars
+4/3 = sēsquitertia pars
+5/4 = sēsquiquarta pars
+6/5 = sēsquiquīnta pars
+7/6 = sēsquisexta pars
+Igeragozás
+Searchtool right.svg	Bővebben: Latin igeragozás
+Az igeragozás rendszere
+Az igeragozás során az igetőhöz – a magyarhoz hasonlóan – toldalékok kapcsolódnak. Egy ragozott ige az alábbiakról hordoz információt:
+
+igenem (genus, cselekvő vagy szenvedő)
+mód (modus, kijelentő, kötő vagy felszólító)
+idő (tempus, jelen, múlt vagy jövő)
+állapot (actio, egyidejű vagy előidejű, más szóval folyamatos vagy befejezett)
+szám (numerus, egyes vagy többes) és
+személy (persona, első, második vagy harmadik).
+A személyragos igékből (verbum finitum) igeneveket (verbum infinitum) lehet képezni, melyeknek önálló ragozásuk van. Az igenevek közé tartozik háromféle főnévi igenév: az infinitivus, a gerundium és a supinum, valamint kétféle melléknévi igenév: a participium és a gerundivum (e kettő alakilag részben egybeesik, de az utóbbi jelentés terén nem valódi melléknévi igenév). Az infinitivus és a participium lehet cselekvő vagy szenvedő; egyidejű, előidejű vagy utóidejű, olykor a számot és nemet is jelölhetik, sőt egyes névszói eseteket is megkaphatnak. Az infinitivus szükséges az accusativus cum infinitivo és a nominativus cum infinitivo szerkezetek képzéséhez is, a participiummal pedig a participium coniunctum, a gerundivumos szerkezet és az ablativus absolutus képezhető.
+
+Az igenevekkel alkotott mondatrövidítő szerkezetek más mai nyelvekben is általánosak (az indoeurópai nyelvekben éppúgy, mint a magyarban), de a latinban ennek számos eszköze áll rendelkezésre. A latinra és az újlatin nyelvekre egyaránt e szerkezetek különösen jellemzőek, ezek teszik lehetővé tömör kifejezésmódját, sajátos, lapidáris („kőtömbszerű”) stílusát.
+
+Példák az igeragozásra
+Az alábbiakban látható néhány példa a kijelentő mód cselekvő ragozásra a latinból és az újlatin nyelvekből.
+
+esse, létige: sum, es, est, sumus, estis, sunt; múlt idő (perfectum): fui, fuisti, fuit, fuimus, fuistis, fuerunt
+spanyol (ser): soy, eres, es, somos, sois, son; múlt idő: fui, fuiste, fue, fuimos, fuisteis, fueron
+olasz (essere): sono, sei, è, siamo, siete, sono; múlt idő: fui, fosti, fu, fummo, foste, furono
+francia (être): je suis, tu es, il est, nous sommes, vous êtes, ils sont; múlt idő: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent
+román (a fi): sunt, eşti, este v. e, suntem, sunteţi, sunt; múlt idő: fu(se)i, fu(se)şi, fu(se), fu(se)răm, fu(se)răţi, fu(se)ră
+cantare, énekelni: canto, cantas, cantat, cantamus, cantatis, cantant; befejezett jelen idő (praesens perfectum): canta(v)i, canta(vi)sti, cantau(i)t, canta(vi)mus, canta(vi)tis, canta(ve)runt
+spanyol (cantar): canto, cantas, canta, cantamos, cantáis, cantan; múlt idő: canté, cantaste, cantó, cantamos, cantasteis, cantaron
+olasz (cantare): canto, canti, canta, cantiamo, cantate, cantano; múlt idő: cantai, cantasti, cantò, cantammo, cantaste, cantarono
+francia (chanter): chant-e, -es, -e, -ons, -ez, -ent; múlt idő: chant-ai, -as, -a, -âmes, -âtes, -èrent
+vivere, élni: vivo, vivis, vivit, vivimus, vivitis, vivunt; befejezett jelen idő (praesens perfectum): vixi, vixisti, vixit, viximus, vixitis, vixerunt
+spanyol (vivir): vivo, vives, vive, vivimos, vivís, viven; múlt idő: viví, viviste, vivió, vivimos, vivisteis, vivieron
+olasz (vivere): vivo, vivi, vive, viviamo, vivete, vivono; múlt idő: vissi, vivesti, visse, vivemmo, viveste, vissero
+francia (vivre): vis, vis, vit, vivons, vivez, vivent ; múlt idő: vécus, vécus, vécut, vécûmes, vécûtes, vécurent
+Megjegyzés: A formai hasonlóság ellenére az itt említett múlt idejű újlatin igealakok használati köre jelentősen eltérhet a latintól és egymástól is. Az újlatin nyelvekben meglehetősen számos múlt idő létezik, az itt említett egyszerű múlt idejű igealak egyes újlatin nyelvekben ritkán használatos.
+
+Elöljárószók
+Az elöljárószók vagy prepozíciók (latinos alakban: praepositio) olyan, a főnevek vagy igék elé vagy (más nyelvekben) után tett szócskák, melyek cselekvés, történés mellett azok körülményeit adják meg: irányát, helyét, idejét stb. (Magyarra legtöbbször raggal vagy névutóval fordítjuk.) Az igék és származékaik előtt szereplő, azokkal összeolvadó változatukat praefixumnak hívják.
+
+A leggyakoribb latin elöljárószók és vonzataik:
+
+ā, ab – -tól/-től (ablativus) (vö. olasz da < de+ab)
+contrā – szemben, ellen (accusativus) (vö. spanyol contra, olasz contro stb.)
+cum (szóösszetételekben con-, co-) – -val, -vel (ablativus) (vö. olasz/spanyol con, portugál com, román cu stb.)
+dē – -ból/-ből, -ról/-ről, -tól/től (ablativus) (vö. francia/spanyol/portugál/katalán/román de, olasz di stb.)
+ē, ex – -ból, -ből (ablativus)
+in (vö. olasz in, román în, spanyol/francia en, portugál em stb.)
+– -ban/-ben (ablativusszal)
+– -hoz/-hez/-höz, ellene, szembe (accusativusszal)
+per – -ért, miatt; keresztül, által, révén (vö. olasz/katalán per, spanyol/portugál por/para, francia pour/par stb.)
+prae – elé (accusativus), előtt (ablativus)
+prō – -ért, helyett (vö. spanyol por/pro, francia pour stb.)
+sub – alatt (ablativus) (vö. régi spanyol so, portugál sob)
+super (vö. olasz su/sopra, spanyol/portugál sobre stb.)
+– fölött, -on/-en/-ön (ablativus)
+– fölé, -ra/-re (accusativus)
+trans – (vmin) át, keresztül; mögött, után (vö. spanyol tras)
+ultrā – fölé, túl-
+Módosító-, határozó- és kötőszók
+atque – és
+aut – vagy (vö. újlatin o/ou)
+et – és (vö. újlatin e/i/y)
+nē – hogy ne; nehogy
+sed – ám, (ám)de, viszont
+semper – mindig (vö. olasz/portugál sempre, spanyol siempre stb.)
+sic – így, ily módon, ekképp(en), ezért, (helyeslés kifejezésére) igen (vö. olasz/spanyol/katalán sí, portugál sim stb.)
+sine – nélkül (vö. spanyol sin, portugál sem, olasz senza, francia sans stb.)
+sive, seu – vagy
+quasi – majdnem, fél-, ál- (vö. olasz quasi, portugál quase, spanyol casi stb.)
+-que – és (simuló kötőszó: a szó végéhez ragad)
+ut – hogy… (ok- vagy célhatározó jelleggel)
+vel – vagy, akár … akár …
+Indulatszók
+heu – jaj!
+mehercle – biz a!, nahát! (szó szerint: „Herkulesre!”)
+o! – oh, ó!
+vae! – jaj!!
+Híres írók, költők
+
+A Naturalis historia, az első enciklopédia előlapja. Szerzője Gaius Plinius Secundus, íródott az első században
+
+Leonhard Euler egy matematikai értekezése a 18. századból
+Titus Maccius Plautus
+Publius Terentius Afer
+Marcus Porcius Cato
+Gaius Valerius Catullus
+Quintus Horatius Flaccus
+Caius Iulius Caesar
+Marcus Tullius Cicero
+Gaius Sallustius Crispus
+Titus Lucretius Carus
+Publius Ovidius Naso
+Publius Vergilius Maro
+Titus Livius
+Gaius Plinius Secundus
+Sextus Iulius Frontinus
+Cornelius Tacitus
+Gaius Suetonius Tranquillus
+Szent Jeromos
+Hippói Szent Ágoston
+Sevillai Szent Izidor
+Beda Venerabilis
+Canterburyi Szent Anzelm
+Pierre Abélard
+Aquinói Szent Tamás
+Johannes Secundus
+Kopernikusz
+Galileo Galilei
+Francis Bacon
+Thomas Hobbes
+John Milton
+Baruch Spinoza
+Isaac Newton
+Leonhard Euler
+Giovanni Pascoli
+XVI. Benedek pápa
+A latin nyelv mai leszármazottai
+Az újlatin nyelvek természetesen a beszélt vulgáris latinból (más szóval: népi, köznyelvi latinból) erednek, tehát abból, amit valójában beszéltek az emberek Rómában és másutt. Ezt azért szükséges külön megjegyezni, mert az ún. klasszikus latin az irodalmi emlékek latinja, és mint ilyen a sztenderdhez képest más (az írás konzervatívabb, az írástudóknak mindig is volt egy igénye, hogy a nyelvet valamiféle normák alapján nagyjából változatlanul őrizzék meg, így szakadt el „természetes módon” beszélt és az írott változat egymástól). A késő ókori latin és az újlatin dialektusok (többek közt) abban térnek el, hogy az újlatinban megkülönböztető hangsúlyt találunk, a latinban viszont megkülönböztető magánhangzó-hosszúságot (bár ez a folyamat a késő ókori latinságban már bőven beindult). Az olasz és a szárd nyelvben a mássalhangzóknak megkülönböztető hossza van, és hangsúlyt is találunk, a spanyolban csak megkülönböztető hangsúlyt, a franciában pedig már a hangsúly sem megkülönböztető értékű. Egy másik fontos különbség (egyben minden indoeurópai nyelvben hasonló folyamat zajlott le): az újlatin nyelvek lassacskán „lemondtak” a főnévragozásról, a szavak elhagyták megkülönböztető esetvégződéseiket, mindösszesen a többes szám jele és a nyelvtani nemek megkülönböztetése maradt meg.
+
+Mesterséges nyelvek is merítettek, merítenek a latinból, például az eszperantó, az ido, az interlingua és a latino sine flexione.
+
+A magyar és a latin
+A latin nyelvtanírás hagyománya sokáig éreztette hatását a magyar nyelvtanokon, és az egyéb alapokon nyugvó elméletek csak az utóbbi időben alakultak ki. A latin egyes helyeken a beszélt nyelvre is kihatott (például a kötőmód (coniunctivus), vagy az igeneves szerkezetek használata), bár ezek jó része már feledésbe merült (például kérte, hogy adná neki oda szerkesztés).
+
+A középkortól fogva számos latin szó került nyelvünkbe, például az egyházi életből (vallási, hitéleti fogalmak), vagy más kulturális területekről (iskola, növény- és állatnevek, hónapnevek, orvosi kifejezések). Az ókori római és a Gergely-naptárat is eredetileg latinul írták. A tudományok még ma is sok latin eredetű szót használnak. A 19–20. századtól kezdve további latin jövevényszavak áramlottak és áramlanak nyelvünkbe a tudományos fejlődés és a nemzetközi érintkezés nyomán, bár e szavak egy része már a latinba is a görögből került. A latin eredetű (elsősorban francia és olasz) jövevényszavak is gazdagították nyelvünket, csakúgy, mint az angol jövevényszavak némelyike, melyek (az ófrancia közvetítésével) szintén a latinból erednek.
+
+A latin a 20. század közepéig a középiskolai oktatás szerves része volt (lásd például a Légy jó mindhalálig című regényben), ismerete az alapműveltséghez tartozott . Ma – a felsőoktatás mellett – a közoktatásban is tanítják (általános és középiskolában, egyházi iskolákban), gyakran kötelezően választható nyelvként. Az általános iskola 1949-es bevezetése előtt a 8 osztályos gimnázium alsó négy évében és a felső négyben a választható humán tagozaton (érettségin is) kötelező tárgy volt.
+
+A latin mint élő nyelv
+A latin mint nemzetközi közvetítő nyelv
+Az ókori Római Birodalomban a görög nyelven kívül az egész birodalom nyelve a latin volt, és a közigazgatás nem vette figyelembe a provinciák nyelveinek sajátosságait. Bár a császárkor óta a nép által beszélt nyelv fokozatosan megváltozott, az irodalmi nyelv a birodalom bukásáig megmaradt. Ez a standard nyelv az arany- és ezüstkori írók nyelve volt. Ezután a latin nyelv megmaradása a bencés rendhez kapcsolódik, akiknek munkájuk révén sikerült a klasszikus irodalom hatalmas részét átmenekíteni. Az egyház folytatta az irodalmi latin nyelv használatát. Nagy Károly, aki a translatio imperii elve alapján a szent római birodalom eszméjét tűzte ki céljául, indította el a latin nyelv első reneszánszát. Ettől kezdve kerül be a latin az államok közigazgatásába.
+
+A középkori Európa nagy részén közvetítő nyelv volt, ami az élet minden területére (a liturgiától a hivatalos ügyintézésen át az államok között megkötött paktumok nyelvezetéig) kihatott, majd a latin nyelvnek ezen univerzális, közigazgatási funkciója később Európa országaiban fokozatosan megszűnt (legelőször Franciaországban 1539-ben a villers-cotterêts-i rendelet által, legkésőbb Magyarországon 1844-ben). A latin nyelv ezután egészen a 18. század elejéig a tudományos munkák szinte kizárólagos nyelve volt.[12] A vesztfáliai béke volt az utolsó, kizárólag latinul megírt nemzetközi okirat.[13] A 18. század első feléig a békeszerződéseket az adott nemzeti nyelv mellett latinul is megszövegezték (pl. az 1713-as utrechti béke, 1738-as bécsi béke, 1739-es belgrádi béke esetében). A felvilágosodás során Nyugaton a latin szerepét a francia vette át, így a latin ezelőtti tudományos szerepében a 19. század második feléig csupán azokban az országokban maradt meg (ideológiától függetlenül), amelyeknek nyelvét nem sokan ismerték, vagy politikai szerepe akkoriban csekély volt (Skandinávia, német fejedelemségek, Közép-, Kelet-Európa, Oroszország).
+
+A latin nyelv és a közoktatás
+A második ipari forradalom következtében a latin az azon történő oktatást és a tudományos életet illetően a megmaradt országokból is kiszorult, bár a második világháborúig sok helyen kötelező tantárgyként oktatták, jóllehet nem ugyanazzal a céllal s nem ugyanazzal módszerrel. A latin nyelv aktív használatát a római katolikus egyház folytatta tovább, ahol a második vatikáni zsinatig a szemináriumokban a teológiát ill. bölcseletet latinul oktatták, és a liturgia is latinul folyt. A zsinat után, bár a zsinat csak a lehetőségeket akarta kitárni, s nem azt megszüntetni, a latin nyelv élő hagyományának védelmét megcélzó pápai rendelkezések (mint pl. XXIII. János Veterum Sapientia c. enciklikája) hatás nélkül maradtak.
+
+A latin nyelv, még akkor is, mikor a leánynyelvek beszélt nyelvállapota nagyban eltávolodott az ókori irodalmi nyelvtől, sokáig az európai civilizáción belül a kultúra és a tudományok közvetítő nyelvének számított. Valójában ma is nagyon sokan tanulják és – bármennyire is meglepő – kommunikálnak vele, különösen Nyugat-Európa egyes országaiban.
+
+Meglehetősen vitatott kérdés, hogy a huszonegyedik században és azután érdemes-e a latint meghagyni a közoktatásban, nem jelent-e tanulása elpazarolt időt.[14]
+
+A kultúrában
+A latin nyelv megtalálható könyvekben, filmekben, filmsorozatokban; és nemcsak azokban, amelyek az ókorról vagy a középkorról szólnak. A középkorias, fantasykban is szerepel, használják a műveltek, a tudomány és a varázslás nyelveként. Néha a modern környezetben játszódó filmekben is a mágia nyelve, mint például a Vámpírnaplókban. Felhasználják szerepjátékokban is, például a M.A.G.U.S. sokat merített belőle.
+
+A Lost filmsorozatban a Többiek ezt a nyelvet is használják.
+
+Az Űrgammákban van egy halvány utalás arra, hogy a benne szereplő három népre oszlott közösség ősi nyelve a latin vagy valami hasonló lenne. A Haldor két űrhajósának neve, Dexter és Sinister neve is latin.
+
+A Harry Potterben a mágia nyelve feltűnően hasonlít a latinhoz.
+
+A Star Trekben egy rövid latin nyelvű beszélgetés hallható a Star Trek: The Next Generation sorozat The Game című részében Wesley Crusher és Picard kapitány között:
+
+Picard: Quomodo tua Latinitas est?
+Wesley: Praestat quam prius.
+Picard: Oppido bonum.
+Néhány részben latin nyelvű idézetek, rövid mondások fordulnak elő:
+
+Mondás	Magyarul	Használója	Rész
+Ad Astra per Aspera	Nehézségek által a csillagokig	Földi Űrhajózási Osztály	ENT - "These Are the Voyages..."
+Audentes fortuna iuvat	Bátraké a szerencse	Columbia	ENT - "Home", "Affliction", "Divergence"
+Audentes Fortuna Imperii	A bátrak a birodalom szerencséje	ISS Avenger	ENT - "In a Mirror", Darkly, Part II"
+Caveat emptor	Óvakodjon a vásárló	Ferengi Szövetség, Data	TNG - "The Last Outpost"
+Ex luna scientia	Tudomány a holdból	NASA	ENT - "First Flight"
+Ex astris scientia	Tudomány a csillagokból	Starfleet Academy	TNG - "The First Duty"
+Inter Arma Enim Silent Leges	Háború idején hallgatnak a törvények	Gulielmi Ross, 31. rész	DS9 - "Inter Arma Enim Silent Leges"
+Res Gesta Per Excellentiam	Előrejutás kiválósággal	NASA	ENT - "First Flight"
+Tempus fugit	Repül az idő	Ducane	VOY - "Relativity"
+Egyes részek eredeti címe is latin:
+
+TNG
+Sub Rosa
+DS9
+Dramatis Personae
+Inter Arma Enim Silent Leges
+VOY
+Ex Post Facto
+Non Sequitur
+Alter Ego
+ENT
+Terra Nova
+Vox Sola
+A Stargate fiktív univerzumában az értelmes földönkívüli lények elnevezése Alteri. A latin nyelv egy archaikus változatát beszélik. A csillagkapukat évezredek óta építik. Két népre oszlanak, az egyik angol neve Ancients, a másiké Ori. Az Ancients a Tejútrendszerben és a Pegazus csillagképben telepedett le. Nyelvüket átadták az emberiségnek, ebből lett a latin nyelv.
+
+Jegyzetek
+ Tótfalusi István: Magyar Etimológiai Nagyszótár
+ Belák Erzsébet: Az orvosi latin nyelv néhány aspektusa és oktatásának kérdései. Debreceni Egyetem. [2013. május 13-i dátummal az eredetiből archiválva]. (Hozzáférés: 2016. december 24.)
+ 1844. évi II. törvénycikk. [2015. november 17-i dátummal az eredetiből archiválva]. (Hozzáférés: 2011. március 31.)
+ A Facebook újra életre kelti a latint (Nyest.hu)
+ A Google latin nyelvű felülete
+ Vicipædia
+ FAZ.Net 24 Iunii 2010: Nadine Bös: "Für die Schule, nicht fürs Leben" (Scholae, non vitae). Sablon:Ling
+ De emissionum Latinarum fine
+ Gavin Betts, Teach Yourself Complete Latin, p. 7.
+ Thorus Janson, Latin: Kulturen, historien, språket (Wahlström & Widstrand, 2009), ISBN 978-91-46-20428-2.
+ Valójában a szavak latinból örökölt hangsúlya a helyén maradt, tehát ez a szabaddá válás nem jelent mást, csak annyit, hogy a hangsúlytalan szótagok szó végi vagy szóközi lekopásával az eredetileg másodéles latin szavak végélessé, az eredetileg harmadélesek pedig másodélessé váltak bizonyos újlatin nyelvekben, míg az ún. művelt, vagy már utólag átvett, „visszalatinosított” alakok ismét visszahozták a harmadéles hangsúlyozást. Ezen kívül a látszólagos szabadságot az összetett (képzővel, simulónévmással ellátott) szavak hangsúlyozása növeli, mivel azoké is az eredeti latin tőszón maradt.
+ A középkor utáni latin nyelvet neolatinnak nevezik, bár más rendszerezésben a 17. századtól számítják, így a középkor és a késő újkor közé eső intervallumot reneszánsz latinnak hívják.
+ Wilfried Stroh: Meghalt a latin, éljen a latin!: Egy nagy nyelv rövid története. Budapest: Typotex. 2011. ISBN 978-963-2794-22-8
+ Adamik Tamás: Mire jó a latin? Mire jó ez a könyv?. Könyv és nevelés online, 2011/4.
+Források
+Nagy-Kováts-Péter: Latin nyelvtan a középiskolák számára
+
+Kapcsolódó cikkek
+Latin eredetű ábécék
+Európai települések latin neve
+További információk
+Wikipedia
+Tekintsd meg a Wikipédia
+latin nyelvű változatát!
+File:Wiktionary-logo-hu.svg
+Nézd meg a Kategória:magyar-latin szótár címszót a Wikiszótárban!
+Magyarul
+Latin.lap.hu
+Latinweb
+Webnyelv
+Finály Henrik szótárának digitalizált változata a Magyar Elektronikus Könyvtárban.
+Latin nyelvművelő blog
+Balogh Mihály: Kell-e a latin? Kerekasztal-beszélgetés a magyarországi latintanításról. Könyv és nevelés online, 2009/1.
+Angolul
+a The Perseus Project számos hasznos oldalt tartalmaz az ókori nyelvekre és irodalmakra vonatkozóan, köztük egy interaktív latinszótár oldalait.
+Ethnologue report for Latin
+Ingyenes online latintanfolyamok (angolul)
+https://web.archive.org/web/20040214174858/http://www.sprachprofi.de.vu/latin
+http://wikibooks.org/wiki/Latin
+The Latin Library számos latin szerző szövegeinek digitális változata online (ingyenes)
+Textkit latin tankönyvi szövegek és egyéb digitális nyelvi anyagok.
+Latin – English Dictionary: a Webster’s szótár Rosetta-kiadásának anyaga.
+Ephemeris Nuntii Latini Universi: a finn rádió és a BBC közös latin nyelvű friss hírei (szöveg és hangzóanyag).
+Verbix Ingyenes online igeragozó-program.
