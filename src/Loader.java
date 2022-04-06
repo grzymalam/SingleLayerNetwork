@@ -7,8 +7,11 @@ import java.util.stream.Collectors;
 
 public class Loader {
     private double subStringSize;
-    Loader() {}
-    public ArrayList<Vector> load(String path){
+
+    Loader() {
+    }
+
+    public ArrayList<Vector> load(String path) {
         String ASCIIletters = "abcdefghijklmnopqrstuvwxyz";
         LinkedHashMap<String, Double> data = new LinkedHashMap<>();
         ArrayList<Vector> vectors = new ArrayList<>();
@@ -22,12 +25,12 @@ public class Loader {
                     file += line;
                 }
                 file = file.toLowerCase();
-            }  catch (IOException e) {
+            } catch (IOException e) {
                 e.printStackTrace();
             }
             Vector vector = getASCIICount(file);
             vectors.add(vector);
-            for(char c: ASCIIletters.toCharArray()){
+            for (char c : ASCIIletters.toCharArray()) {
                 data.put(String.valueOf(c), 0.0);
             }
             file = "";
@@ -35,14 +38,15 @@ public class Loader {
 
         return vectors;
     }
+
     //returns a normalized vector with the count of each ASCII character
-    public Vector getASCIICount(String file){
+    public Vector getASCIICount(String file) {
         String ASCIIletters = "abcdefghijklmnopqrstuvwxyz";
         LinkedHashMap<String, Double> data = new LinkedHashMap<>();
-        for(char c: ASCIIletters.toCharArray()){
+        for (char c : ASCIIletters.toCharArray()) {
             data.put(String.valueOf(c), 0.0);
         }
-        for(char c: file.toCharArray()){
+        for (char c : file.toCharArray()) {
             if (data.containsKey(String.valueOf(c)))
                 data.put(String.valueOf(c), data.get(String.valueOf(c)) + 1);
         }
