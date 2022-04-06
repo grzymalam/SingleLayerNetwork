@@ -36,6 +36,7 @@ public class Main {
             for (Entry entry : trainingSet) {
                 for (Perceptron perceptron : perceptrons) {
                     perceptron.learn(entry.getVector(), entry.getLanguage().equals(perceptron.getLanguage()) ? 1 : 0);
+                    perceptron.normalizeWeights();
                 }
             }
         }
